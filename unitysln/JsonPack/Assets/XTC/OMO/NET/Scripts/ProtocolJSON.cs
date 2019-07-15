@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using SimpleJSON;
 
-namespace OMO.SDK.NET
+namespace XTC.OMO.NET
 {
     public class ProtocolJSON
     {
